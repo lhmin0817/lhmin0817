@@ -4,6 +4,7 @@
   <h2>🤜🤛 Group</h2>
 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="pointer-events: none; cursor: default;" />
+  <img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)" style="pointer-events: none; cursor: default;" />
 
 
   <h2>👨 Social</h2>
