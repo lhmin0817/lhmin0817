@@ -3,6 +3,10 @@
 
   <h2>🤜🤛 Group</h2>
 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="pointer-events: none; cursor: default;" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="pointer-events: none; cursor: default;" />
+
+
   <h2>👨 Social</h2>
   <a href="https://github.com/lhmin0817">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="pointer-events: none; cursor: default;" />
