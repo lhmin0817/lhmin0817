@@ -1,4 +1,12 @@
 <div align="center">
+  <style>
+    img {
+      pointer-events: none;
+    }
+    img:hover {
+      cursor: default;
+    }
+  </style>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" style="pointer-events: none;" />
 
   <h2>🤜🤛 Group</h2>
